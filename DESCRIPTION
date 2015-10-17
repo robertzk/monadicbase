@@ -1,0 +1,8 @@
+Package: monadicbase
+Version: 0.0.1
+Title: The R Base Package
+Author: R Core Team and contributors worldwide
+Maintainer: R Core Team <R-core@r-project.org>
+Description: Base R functions.
+License: Part of R @VERSION@
+Suggests: methods
